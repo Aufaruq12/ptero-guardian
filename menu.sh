@@ -5,7 +5,7 @@
 # =====================================================
 
 # >>> GANTI baris ini sebelum upload ke GitHub <<<
-GH_REPO="${GH_REPO:-GANTI_USERNAME/ptero-guardian}"
+GH_REPO="${GH_REPO:-Aufaruq12/ptero-guardian}"
 GH_BRANCH="${GH_BRANCH:-main}"
 RAW_BASE="${RAW_BASE:-https://raw.githubusercontent.com/${GH_REPO}/${GH_BRANCH}}"
 
